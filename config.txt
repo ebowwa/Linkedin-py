@@ -1,0 +1,21 @@
+[login]
+username: john.doe@example.com
+password: mypassword
+
+[search]
+keywords: sales, SDR, solar
+location: San Francisco, CA
+job_title: SDR
+industry: Technology
+experience_level: Entry Level
+employment_type: Internship
+
+[application]
+resume: /path/to/resume.pdf
+cover_letter: /path/to/cover_letter.pdf
+phone: 555-555-5555
+email: john.doe@example.com
+
+[settings]
+min_relevance: 75
+max_applications: 10
